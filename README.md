@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=evl44&label=Profile%20views&color=0e75b6&style=flat" alt="evl44" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=evl44" alt="evl44" /></a> </p>
+
 - 🔭 I’m currently working on [EstateFinder](https://github.com/EVL44/EstateFinder)
 
 - 🌱 I’m currently learning **React js, Express js, Python and C++**
@@ -21,5 +23,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=evl44&show_icons=true&locale=en&layout=compact" alt="evl44" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=evl44&show_icons=true&locale=en" alt="evl44" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=evl44&" alt="evl44" /></p>
