@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdelouahed</h1>
-<h3 align="center">A Student</h3>
+<h3 align="center">Computer Engineer and Embanded Systems</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=evl44&label=Profile%20views&color=0e75b6&style=flat" alt="evl44" /> </p>
 
