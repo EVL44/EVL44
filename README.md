@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=evl44" alt="evl44" /></a> </p>
 
-- 🔭 I’m currently working on [EstateFinder](https://github.com/EVL44/EstateFinder)
+- 🔭 I’m currently working on [Nest](https://github.com/EVL44/Nest)
 
-- 🌱 I’m currently learning **React js, Express js, Python and C++**
+- 🌱 I’m currently learning **Next js, Python and C++**
 
 - 📫 How to reach me **abdelouahedidboubrik@gmail.com**
 
