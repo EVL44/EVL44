@@ -41,18 +41,11 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=arduino,c,cpp,python,java,js,php,html,css,sass,bootstrap,tailwind,react,nextjs,nodejs,express,laravel,mysql,mongodb,matlab,linux,git,figma,ps,postman,sklearn&perline=13" />
 </p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Oracle_DBA-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
-  <img src="https://img.shields.io/badge/MS_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="MSSQL" />
-</p>
  
 ---
-
 <h3 align="center">📊 My GitHub Journey</h3>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=evl44&theme=dracula&hide_border=true" alt="GitHub Streak" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=evl44&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" height="150"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=evl44&langs_count=8&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=evl44&theme=dracula&hide_border=true" alt="GitHub Streak" height="110"/>
+  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/evl44?cardType=level&theme=dracula&preferLogin=false&hide_border=true" alt="GitHub Stats" height="110"/>
+
 </p>
