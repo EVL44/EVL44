@@ -20,7 +20,7 @@
 
 <h3 align="center">🔗 Connect with Me</h3>
 <p align="center">
-  <a href="https://www.abdelouahed.me/" target="_blank">
+  <a href="https://abdelouahed.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://linkedin.com/in/abdelouahed-id-boubrik" target="_blank">
